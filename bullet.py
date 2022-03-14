@@ -60,3 +60,4 @@ class Bullet:
 
     def get_rect(self):
         return self.x, self.y, self.size, self.size
+    
