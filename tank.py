@@ -164,4 +164,3 @@ class Tank:
             pygame.mixer.Channel(1).play(self.sound_explosion)
             return True
         return False
-      
